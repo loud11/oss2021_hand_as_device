@@ -103,9 +103,9 @@ while True:
                 index_finger = []
 
     for i in index_finger:  # draw hand writing
-        cv2.circle(frame, (i[0], i[1]), radius=0, color=(255, 255, 255), thickness=3)
+        cv2.circle(frame, (i[0], i[1]), radius=0, color=(0, 0, 255), thickness=3)
 
-    cv2.putText(frame, predict_name, (30, 30), cv2.FONT_ITALIC, 1, (255, 255, 255), 2)
+    cv2.putText(frame, predict_name, (30, 30), cv2.FONT_ITALIC, 1, (0, 0, 255), 2)
 
     cv2.imshow("CAM", frame)
     key_pressed = cv2.waitKey(1)
