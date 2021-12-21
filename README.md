@@ -43,19 +43,19 @@ python main.py may take while. so wait it for 1~2 minutes.
 
 
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/short_demo_hand_act.gif)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/short_demo_hand_act.gif)
 
 The demo video above is an image that recognizes the user's hand movement, moves the mouse cursor, and clicks.
 
 
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/short_demo_handwriting.gif)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/short_demo_handwriting.gif)
 
 The demo video above is a gif video that recognizes the user's hand movement and recognizes hand-drawn letters in the air, so that letters are entered instead of keyboard input.
 
 
 
-Please click the [link](https://github.com/loud11/OSS2021/blob/main/resource/PROJECTDETAIL03.md) to find out more about the key mapping demonstrated in the demo.
+Please click the [link](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/PROJECTDETAIL03.md) to find out more about the key mapping demonstrated in the demo.
 
 
 
@@ -79,7 +79,7 @@ extracting hand motion feature vectors using **mediape** and
 
 then making hand motion recognition using vectors, 
 
-Click the ([link](https://github.com/loud11/OSS2021/blob/main/resource/PROJECTDETAIL01.md)) to see how you handled this part of the project.
+Click the ([link](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/PROJECTDETAIL01.md)) to see how you handled this part of the project.
 
 
 
@@ -87,5 +87,5 @@ Click the ([link](https://github.com/loud11/OSS2021/blob/main/resource/PROJECTDE
 
 emnist training to recognize handwriting in the air.
 
-Click the ([link](https://github.com/loud11/OSS2021/blob/main/resource/PROJECTDETAIL02.md)) to see how you handled this part of the project.
+Click the ([link](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/PROJECTDETAIL02.md)) to see how you handled this part of the project.
 
