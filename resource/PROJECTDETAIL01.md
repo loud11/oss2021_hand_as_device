@@ -24,7 +24,7 @@ Using the mediapipe module, your PC recognizes your hand through the web cam as 
 
 
 
-[](https://github.com/loud11/OSS2021/blob/main/resource/hand/hand_onmarked.png)
+[](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/hand/hand_onmarked.png)
 
 
 
@@ -45,31 +45,31 @@ That's what happened when I made an extra to map keys corresponding to hand moti
 
 The seven hand gestures recognized in this project are as follows.
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/hand/handopen.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/hand/handopen.png)
 
 hand open
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/hand/close.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/hand/close.png)
 
 hand close
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/hand/1finger.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/hand/1finger.png)
 
 1 finger unfold
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/hand/2finger.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/hand/2finger.png)
 
 2 finger unfold
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/hand/3finger.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/hand/3finger.png)
 
 3 finger unfold
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/hand/thumbsup.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/hand/thumbsup.png)
 
 thumbs up
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/hand/thumbsdown.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/hand/thumbsdown.png)
 
 thumbs down
 
@@ -79,7 +79,7 @@ thumbs down
 
 
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/hand/model.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/hand/model.png)
 
 The picture above is part of the source code of the hand_gesture_learn.py file.
 
@@ -101,11 +101,11 @@ we could expect an amazing effect by just dropping out on the floor about two ti
 
 
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/hand/hand_model_loc.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/hand/hand_model_loc.png)
 
 
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/hand/hand_model_loc_loss.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/hand/hand_model_loc_loss.png)
 
 
 
@@ -113,7 +113,7 @@ It is predicted that it will still show high accuracy in making the user aware o
 
 
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/hand/final.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/hand/final.png)
 
 
 

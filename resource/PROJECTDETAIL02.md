@@ -16,7 +16,7 @@ In this repository project, the module was used in "emnist_model_learn.py" and l
 
 
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/emnist/emnist_breakdown.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/emnist/emnist_breakdown.png)
 
 The above picture shows how the python module emnist stores emnist data.
 
@@ -30,9 +30,13 @@ Considering the above mentioned points, "by merge" datasets were used.
 
 
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/emnist/emnist_model.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/emnist/emnist_model.png)
 
 The picture above is part of the source code of the "emnist_model_learn.py" file.
+
+
+
+This time, we used conv2d and maxpooing 2d in layers because we really need to receive image data and distinguish where the image belongs.
 
 
 
@@ -40,5 +44,5 @@ The system used to develop was not high-performance, so we couldn't evaluate the
 
 
 
-![](https://github.com/loud11/OSS2021/blob/main/resource/emnist/emnist_bymerge_result.png)
+![](https://github.com/loud11/oss2021_hand_as_device/blob/main/resource/emnist/emnist_bymerge_result.png)
 
